@@ -1,0 +1,155 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.Product{
+  border: 5px solid black;
+  width: 800px;
+  height:340px ;
+
+}
+
+
+.center{
+  text-align: center;
+  margin: 10px  0px 10px 5px ;
+  padding:5px ;
+  background-color: aqua;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: uppercase;
+}
+
+.pic{
+  margin-left: 5px;
+  float: left;
+}
+
+.price{
+  margin-left: 5px;
+  font-size: 25px;
+  font-style: italic;
+}
+
+.shipping{
+  margin-left: 5px;
+  margin-bottom: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.dress{
+  margin:0px 0px 5px 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+.info{
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.color{
+  background-color:black ;
+  margin-left: 5px;
+  width: 20px;
+  height: 20px;
+  padding: 3px;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.color-brown{
+background-color: brown;
+}
+.color-blue{
+  background-color: blue;
+}
+.color-green{
+  background-color: green;
+
+}
+.color-yellow{
+  background-color: yellow;
+}
+.color-lime{
+  background-color: limegreen;
+}
+.color-magenta{
+  background-color: magenta;
+}
+
+.details{
+  margin-left: 5px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  font-style: italic;
+font-weight: bold;
+}
+
+.ul{
+  margin-left: 10px;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.cart{
+  background-color: black;
+  color: blueviolet;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+  width: 500px;
+  text-align: center;
+}
+
+  /* float */
+
+.mid-col{
+float: left;
+width: 250px;
+  }
+
+ .foot{
+  float: right;
+  width: 250px;
+  
+  }
+
+ 
+
+
+
+
+
+  
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
